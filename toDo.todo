@@ -1,0 +1,17 @@
+## Finshing setup the basic Desktop Env:
+
+* Setup a lock screen / Lock command
+* Set useful binding in xmonad.hs
+* Checkout picom possibility of X composition (Effect etc)
+* Upgrade the polybar
+* Checkout Rofi AppLauncher
+
+## Learn about Home Managment of nixos (make it work)
+
+## Launch a VM with KVM or QUEMU (make it work)
+
+## Different profile like cyber (with exegol inshallah) basics (without exegol) devs (like fullstack npm etc/ + vscode ?? any dev package needs)
+
+## Upadte vim with plugin to make it juicy
+
+## Then work on in little by little
